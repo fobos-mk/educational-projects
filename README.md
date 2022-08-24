@@ -41,5 +41,18 @@
         •&nbsp;зафиксировал отсутствие статистически значимых различий в тестовой и контрольных группах
       </td>
     </tr>
+    <td><a href="https://github.com/fobos-mk/educational-projects/tree/main/fitnes-analysis"><b>Прогнозирование вероятности оттока пользователей для фитнес-центров</b></a></td>
+      <td>
+        <img alt="brightgreen" src="https://img.shields.io/badge/python-4078c0">
+        <img alt="brightgreen" src="https://img.shields.io/badge/pandas-4078c0">
+        <img alt="brightgreen" src="https://img.shields.io/badge/scikit_learn-4078c0">
+        <img alt="brightgreen" src="https://img.shields.io/badge/seaborn-4078c0">
+      <td>
+        •&nbsp;спрогнозировал вероятность оттока (на уровне следующего месяца) для каждого клиента<br>
+        •&nbsp;сформированы типичные портреты пользователей<br>
+        •&nbsp;охарактеризовал их основные свойства<br>
+        •&nbsp;проанализировал основные признаки, наиболее сильно влияющие на отток
+      </td>
+    </tr>
   </tbody>
 </table>
