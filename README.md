@@ -14,7 +14,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/fobos-mk/educational-projects/tree/main/ab-test"><b>Изучение закономерностей, определяющих успешность игр</b></a></td>
+      <td><a href="https://github.com/fobos-mk/educational-projects/tree/main/patterns-of-a-successful-game"><b>Изучение закономерностей, определяющих успешность игр</b></a></td>
       <td>
         <img alt="brightgreen" src="https://img.shields.io/badge/python-4078c0">
         <img alt="brightgreen" src="https://img.shields.io/badge/pandas-4078c0">
