@@ -28,7 +28,7 @@
       </td>
     </tr>
         <tr>
-      <td><a href="https://github.com/fobos-mk/educational-projects/tree/main/test-app-fonts"><b>Исследование влияния изменения шрифтов на поведение пользователей приложения</b></a></td>
+      <td><a href="https://github.com/fobos-mk/educational-projects/tree/main/app-fonts"><b>Исследование влияния изменения шрифтов на поведение пользователей приложения</b></a></td>
       <td>
         <img alt="brightgreen" src="https://img.shields.io/badge/python-4078c0">
         <img alt="brightgreen" src="https://img.shields.io/badge/pandas-4078c0">
