@@ -41,7 +41,7 @@
         •&nbsp;зафиксировал отсутствие статистически значимых различий в тестовой и контрольных группах
       </td>
     </tr>
-    <td><a href="https://github.com/fobos-mk/educational-projects/tree/main/fitnes-analysis"><b>Прогнозирование вероятности оттока пользователей для фитнес-центров</b></a></td>
+    <td><a href="https://github.com/fobos-mk/educational-projects/tree/main/fitness-analysis"><b>Прогнозирование вероятности оттока пользователей для фитнес-центров</b></a></td>
       <td>
         <img alt="brightgreen" src="https://img.shields.io/badge/python-4078c0">
         <img alt="brightgreen" src="https://img.shields.io/badge/pandas-4078c0">
